@@ -7,6 +7,9 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+    <?php
+    echo "burr!"
+    ?>
     <script src="/js/script.js"></script>
   </body>
 </html>
